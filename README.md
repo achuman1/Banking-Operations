@@ -5,3 +5,4 @@
   2. Viewing your account
   3. Depositing money
   4. Withdrawing/transferring money through various means.
+* It has multiple functions to define the above operations which are all called through the main function.
